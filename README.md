@@ -1,4 +1,4 @@
-📚 Curso de Next.j
+# 📚 Curso de Next.j
 <br/>
 Este repositório contém exemplos práticos e exercícios desenvolvidos ao longo de um curso de Next.js, cobrindo desde conceitos básicos até recursos avançados do framework.
 Cada pasta numerada corresponde a uma etapa específica do aprendizado, facilitando o acompanhamento do progresso.
